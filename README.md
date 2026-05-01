@@ -1,16 +1,32 @@
-## Hi there 👋
+## Isak Holmsbo
+Tech student focused on building structured, functional, and user-friendly applications.
 
-<!--
-**coolboiisak/coolboiisak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I enjoy making ideas into real working systems, making sure everything behind them actually work
 
-Here are some ideas to get you started:
+At the moment i am mainly focused on a simulation done in pygame but have a background in python, HTML, CSS, C#, PyGame, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+Trafic simulation done in PyGame that shows traffic flow and trafic statistics.
+
+## Tech Stack
+
+### Frontend:
+Html, JavaScript and CSS
+
+### Backend
+C#, Python and SQL
+
+### Tools 
+Git, Github and Visual Studio
+
+## My Focus
+Separating Frontend from backend
+Understanding the code i do
+Build real world solutions
+
+
+## Contact
+Github: already here brorsan
+Mail: isak.holmsbo@gmail.com
+
